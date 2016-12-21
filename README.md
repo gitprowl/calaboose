@@ -11,7 +11,7 @@ Calaboose is written in Ruby on Rails. Download the calaboose gem to your app's 
 Much like GitHub's <a href="http://www.github.com/github/hoosegow">Hoosegow</a>, you have to configure Calaboose to connect to a non standard Unix socket:
 
 ```ruby
-  ensure
+ensure
 calaboose.new :socket => '/path/to/socket'
 ```
 
