@@ -15,4 +15,6 @@ Much like GitHub's <a href="http://www.github.com/github/hoosegow">Hoosegow</a>,
 calaboose.new :socket => '/path/to/socket'
 ```
 
+As you can see the code above for Calaboose, ```ensure``` ensures that the code is always evaluated. That's why it's called ensure. So, it is equivalent to Java's and C#'s ```finally```. It's for high security, and ensuring the code is read before executed.
+
 Calaboose is not fully complete, and won't be until March 2017. As of now I'm keeping the source open for the people. 
