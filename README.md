@@ -8,9 +8,11 @@ Calaboose is written in Ruby on Rails. Download the calaboose gem to your app's 
 
 <pre>gem calaboose</pre>
 
-Much like GitHub's <a href="http://www.github.com/github.com/hoosegow">Hoosegow</a>, you have to configure Calaboose to connect to a non standard Unix socket:
+Much like GitHub's <a href="http://www.github.com/github/hoosegow">Hoosegow</a>, you have to configure Calaboose to connect to a non standard Unix socket:
 
 ```ruby
   ensure
 calaboose.new :socket => '/path/to/socket'
 ```
+
+Calaboose is not fully complete, and won't be until March 2017. As of now I'm keeping the source open for the people. 
