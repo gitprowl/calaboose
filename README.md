@@ -6,5 +6,5 @@ Calaboose is a ephemeral jail for untrusted code specifically built for Prowl. I
 
 Calaboose is written in Ruby on Rails. Gems are available from the [releases pag (https://github.com/Montana/calaboose). Download a gem to your app's `vendor/cache` directory, and add this to your Gemfile:
 
-`gem calaboose`
+<pre>gem calaboose</pre>
 
