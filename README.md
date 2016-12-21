@@ -8,7 +8,7 @@ Calaboose is written in Ruby on Rails. Download the calaboose gem to your app's 
 
 <pre>gem calaboose</pre>
 
-Much like GitHub's Hoosegow, you have to configure Calaboose to connect to a non standard Unix socket:
+Much like GitHub's <a href="http://www.github.com/github.com/Hoosegow"/a>, you have to configure Calaboose to connect to a non standard Unix socket:
 
 ```ruby
   ensure
